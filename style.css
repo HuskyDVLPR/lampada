@@ -1,0 +1,8 @@
+header ,  main {
+    display : flex;
+    direção flexível : coluna;
+    alinhar-itens : centro;
+}
+botão {
+    largura : 80 px ;
+}
